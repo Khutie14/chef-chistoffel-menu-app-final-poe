@@ -89,4 +89,7 @@ Input validation and success alerts.
 Allows guests to:
 Filter menu items by course (Starters, Main, Dessert).
 
+## 🖼️ Screenshots
+
+🏠 Home Screen
 
