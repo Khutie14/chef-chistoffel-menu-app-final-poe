@@ -60,3 +60,33 @@ All code has been refactored into multiple files to improve clarity and maintain
 ---
 
 ## 🧮 Code Architecture
+
+/App.js
+/screens
+   ├── HomeScreen.js
+   ├── AddDishScreen.js
+   └── FilterScreen.js
+/assets
+   └── chef_logo.png
+
+   🔹 App.js
+Manages global state (menu array) and navigation across screens.
+Passes addDish and removeDish functions to the relevant components.
+
+🔹 HomeScreen.js
+Displays:
+Complete list of dishes.
+Average price per course.
+Navigation buttons to Add/Filter screens.
+
+🔹 AddDishScreen.js
+Allows chefs to:
+Add dishes to the menu.
+Delete existing dishes.
+Input validation and success alerts.
+
+🔹 FilterScreen.js
+Allows guests to:
+Filter menu items by course (Starters, Main, Dessert).
+
+
