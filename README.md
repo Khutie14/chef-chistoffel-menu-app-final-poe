@@ -104,3 +104,39 @@ Filter menu items by course (Starters, Main, Dessert).
 🔍FilterScreen
 
 ![image alt](https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe/blob/main/FilterScreen.png?raw=true).
+
+
+🧾 Changelog: From Part 2 → Part 3
+Change #	Feature / Improvement	Description of Change	Reason / Outcome
+1	App Refactored into Multiple Screens	Split the single App.js file into HomeScreen.js, AddDishScreen.js, and FilterScreen.js.	Makes the code more modular, maintainable, and readable.
+2	Introduced React Navigation	Added navigation between Home, AddDish, and Filter screens.	Enables smooth transitions and professional multi-screen flow.
+3	Added Chef Logo Branding	Integrated a custom chef_logo.png header on every screen.	Provides a polished, branded look.
+4	Added AddDishScreen (Chef Page)	Moved dish-adding functionality from HomeScreen to a dedicated AddDishScreen. Includes validation, alerts, and delete functionality.	Meets the Part 3 requirement for a separate chef screen and improves user experience.
+5	Added FilterScreen (Guest Page)	Created a new screen that allows filtering by course (Starter/Main/Dessert).	Meets the Part 3 requirement for guest functionality.
+6	Added Delete Dish Feature	Added the ability to delete dishes from the array with confirmation alerts.	Gives the chef full control of menu management.
+7	Added Average Price per Course Calculation	HomeScreen now calculates and displays the average dish price per course.	Adds meaningful business data and meets POE requirement.
+8	Enhanced UI Design	Redesigned all screens using red (#B91C1C) and dark blue (#1E3A8A). Buttons and text are consistent and clean.	Improves readability and user experience.
+9	Improved State Management	Centralized menu state in App.js and passed via props to other screens.	Ensures all screens display the latest menu data.
+10	Added Alerts and Input Validation	Added alerts for successful additions and validation for empty fields.	Prevents user errors and enhances UX.
+
+
+🧩 Step-by-Step Summary of Development
+Started from Part 2 single-file app.
+Refactored code into 3 new screens for modularity.
+Implemented navigation using React Navigation Stack.
+Added chef logo and header for branding.
+Developed AddDishScreen to add and delete menu items.
+Developed FilterScreen to filter menu by course.
+Updated HomeScreen to display full menu and average price per course.
+Styled app with red & dark blue theme for professional look.
+Tested app on web and mobile using Expo Snack.
+Finalized documentation and changelog for submission.
+
+
+🧠 Technologies Used
+React Native (Expo)
+React Navigation (Native Stack)
+JavaScript (ES6)
+React Hooks (useState)
+Expo Snack Emulator
+
