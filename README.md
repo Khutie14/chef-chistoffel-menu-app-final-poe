@@ -68,6 +68,7 @@ All code has been refactored into multiple files to improve clarity and maintain
    └── FilterScreen.js
 /assets
    └── chef_logo.png
+   
 
    🔹 App.js
 Manages global state (menu array) and navigation across screens.
@@ -105,6 +106,8 @@ Filter menu items by course (Starters, Main, Dessert).
 
 ![image alt](https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe/blob/main/FilterScreen.png?raw=true).
 
+## 🧾 Changelog: From Part 2 → Part 3
+
 
 | Change # | Feature / Improvement             | Description of Change                                                                 | Reason / Outcome                                                                 |
 |----------|---------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -139,6 +142,16 @@ React Navigation (Native Stack)
 JavaScript (ES6)
 React Hooks (useState)
 Expo Snack Emulator
+
+## GitHub repositry link:
+
+https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe
+
+
+## YouTube video link:
+
+https://www.youtube.com/watch?v=-EuuySiN2fI
+
 
 ## 📚 References 
 
