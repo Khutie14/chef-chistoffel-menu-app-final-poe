@@ -1,11 +1,62 @@
-# Sample Snack app
+# 🍽️ Chef Christoffel Menu App — Final PoE (Polishing and Last Features)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## 📘 Overview
+This project is the final part of the Portfolio of Evidence (PoE) for the TypeScript and React Native module.  
+It demonstrates the use of **loops**, **functions**, **global variables**, and **modular code structure** through a restaurant menu management application.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+The app allows a chef to manage menu items, calculate average prices by course, and lets guests filter items by course.  
+All code has been refactored into multiple files to improve clarity and maintainability.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+---
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🎯 Learning Outcomes Achieved
+- ✅ Used `for`, `while`, and `for...in` loops in TypeScript to solve real programming problems.
+- ✅ Defined and implemented multiple **functions**.
+- ✅ Used **global variables** (via React Context) to manage state across screens.
+- ✅ Organized and refactored code into **multiple files** and **modules**.
+- ✅ Implemented new app features using functional and modular TypeScript logic.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+## ⚙️ Features Implemented
+
+### 🏠 Home Screen
+- Displays a **complete menu list** with item names, courses, and prices.
+- Shows the **average price per course** (Starters, Mains, Desserts, Drinks, etc.).
+- Provides buttons to navigate to:
+  - “Add / Remove Items” screen.
+  - “Filter by Course” screen.
+
+### ➕ Add / Remove Menu Screen
+- Allows the **chef to add new menu items** by specifying:
+  - Name
+  - Course type
+  - Price
+  - Optional description
+- Saves items to a **global array** using React Context.
+- Allows **removing existing items** via a delete button.
+
+### 🔍 Filter Screen
+- Lets guests **filter menu items by course**.
+- Supports showing only “Starters,” “Mains,” or “Desserts,” etc.
+- Includes “All” view to show the full menu.
+
+### 🧠 Data Handling
+- All menu data stored in a **React Context** (`MenuContext.tsx`).
+- Uses **arrays** to store items, with add/remove functionality.
+- The **average price per course** is calculated dynamically using a loop in a utility function.
+
+---
+
+## 🧩 Refactoring Summary
+- Moved global state to `MenuContext.tsx` for cleaner structure.
+- Created a `utils/price.ts` file to calculate averages.
+- Created separate files for:
+  - `HomeScreen.tsx`
+  - `AddMenuScreen.tsx`
+  - `FilterScreen.tsx`
+- Improved code reusability by using **functions and loops**.
+- Modularized code following best practices.
+---
+
+## 🧮 Code Architecture
