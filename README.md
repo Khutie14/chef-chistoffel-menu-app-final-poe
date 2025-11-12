@@ -92,7 +92,15 @@ Filter menu items by course (Starters, Main, Dessert).
 ## 🖼️ Screenshots
 
 🏠 HomeScreen
+
 ![image alt](https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe/blob/main/HomeScreen.png?raw=true).
 
+
 ➕AddDishScreen
+
 ![image alt](https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe/blob/main/AddDishScreen.png?raw=true).
+
+
+🔍FilterScreen
+
+![image alt](https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe/blob/main/FilterScreen.png?raw=true).
