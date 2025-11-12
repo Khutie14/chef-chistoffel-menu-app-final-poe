@@ -124,24 +124,38 @@ Filter menu items by course (Starters, Main, Dessert).
 
 ## 🧩 Step-by-Step Summary of Development
 Started from Part 2 single-file app.
+
 Refactored code into 3 new screens for modularity.
+
 Implemented navigation using React Navigation Stack.
+
 Added chef logo and header for branding.
+
 Developed AddDishScreen to add and delete menu items.
+
 Developed FilterScreen to filter menu by course.
+
 Updated HomeScreen to display full menu and average price per course.
+
 Styled app with red & dark blue theme for professional look.
+
 Tested app on web and mobile using Expo Snack.
+
 Finalized documentation and changelog for submission.
 
 
 ## 🧠 Technologies Used
 
 React Native (Expo)
+
 React Navigation (Native Stack)
+
 JavaScript (ES6)
+
 React Hooks (useState)
+
 Expo Snack Emulator
+
 
 ## GitHub repositry link:
 
@@ -151,6 +165,7 @@ https://github.com/Khutie14/chef-chistoffel-menu-app-final-poe
 ## YouTube video link:
 
 https://www.youtube.com/watch?v=-EuuySiN2fI
+
 
 
 ## 📚 References 
