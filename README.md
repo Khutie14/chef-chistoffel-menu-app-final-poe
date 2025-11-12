@@ -142,14 +142,23 @@ Expo Snack Emulator
 
 ## 📚 References 
 
-DigitalOcean. (2024) How to Build Multi-Screen React Native Apps Using React Navigation. Available at: https://www.digitalocean.com/community/tutorials (Accessed: 12 November 2025).
-Expo. (2025) Expo Documentation. Available at: https://docs.expo.dev (Accessed: 12 November 2025).
-FreeCodeCamp. (2024) React Native Project Examples and Tutorials. Available at: https://www.freecodecamp.org/news/tag/react-native/ (Accessed: 12 November 2025).
-GeeksforGeeks. (2025) State Management in React Native. Available at: https://www.geeksforgeeks.org/state-management-in-react-native/ (Accessed: 12 November 2025).
-JavaScript.info. (2025) JavaScript Fundamentals. Available at: https://javascript.info (Accessed: 12 November 2025).
-Meta. (2025) React Native Documentation. Available at: https://reactnative.dev/docs/getting-started (Accessed: 12 November 2025).
-Mozilla Developer Network (MDN). (2025) React Hooks – useState. Available at: https://developer.mozilla.org/ (Accessed: 12 November 2025).
-OpenAI. (2025) ChatGPT – Project Development Assistance for React Native Applications. Available at: https://chat.openai.com (Accessed: 12 November 2025).
-React Navigation. (2025) React Navigation: Native Stack Navigator Guide. Available at: https://reactnavigation.org/docs/native-stack-navigator (Accessed: 12 November 2025).
-W3Schools. (2025) React Native Styling Guide. Available at: https://www.w3schools.com/react/react_native_styling.asp (Accessed: 12 November 2025).
 
+- DigitalOcean. (2024) *How to Build Multi-Screen React Native Apps Using React Navigation*. Available at: [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials) (Accessed: 12 November 2025).
+
+- Expo. (2025) *Expo Documentation*. Available at: [https://docs.expo.dev](https://docs.expo.dev) (Accessed: 12 November 2025).
+
+- FreeCodeCamp. (2024) *React Native Project Examples and Tutorials*. Available at: [https://www.freecodecamp.org/news/tag/react-native/](https://www.freecodecamp.org/news/tag/react-native/) (Accessed: 12 November 2025).
+
+- GeeksforGeeks. (2025) *State Management in React Native*. Available at: [https://www.geeksforgeeks.org/state-management-in-react-native/](https://www.geeksforgeeks.org/state-management-in-react-native/) (Accessed: 12 November 2025).
+
+- JavaScript.info. (2025) *JavaScript Fundamentals*. Available at: [https://javascript.info](https://javascript.info) (Accessed: 12 November 2025).
+
+- Meta. (2025) *React Native Documentation*. Available at: [https://reactnative.dev/docs/getting-started](https://reactnative.dev/docs/getting-started) (Accessed: 12 November 2025).
+
+- Mozilla Developer Network (MDN). (2025) *React Hooks – useState*. Available at: [https://developer.mozilla.org/](https://developer.mozilla.org/) (Accessed: 12 November 2025).
+
+- OpenAI. (2025) *ChatGPT – Project Development Assistance for React Native Applications*. Available at: [https://chat.openai.com](https://chat.openai.com) (Accessed: 12 November 2025).
+
+- React Navigation. (2025) *React Navigation: Native Stack Navigator Guide*. Available at: [https://reactnavigation.org/docs/native-stack-navigator](https://reactnavigation.org/docs/native-stack-navigator) (Accessed: 12 November 2025).
+
+- W3Schools. (2025) *React Native Styling Guide*. Available at: [https://www.w3schools.com/react/react_native_styling.asp](https://www.w3schools.com/react/react_native_styling.asp) (Accessed: 12 November 2025).
